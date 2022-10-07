@@ -24,5 +24,5 @@ footer {
 	height: 40px;
 	margin:10px;
 	padding: 10px;
-	background-image: linea-gradient(to right,#000000;#ff0000,#1b95cd)
+	background-image: linear-gradient(to right,#000000,#ff0000,#1b95cd);
 }
